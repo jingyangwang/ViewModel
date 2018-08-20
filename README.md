@@ -1,1 +1,2 @@
 # ViewModel
+在同一个activity 两个fragment 通过viewmodel进行数据刷新通信
